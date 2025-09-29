@@ -1,4 +1,4 @@
-<h2 align="left">Web developer 💻 | BSIT Cum Laude 🎓 | UST Batch 2025 🐯</h2>
+<h2 align="left">Web developer 💻 & Mobile App developer 📱 | BSIT Cum Laude 🎓 | UST Batch 2025 🐯</h2>
 
 ###
 
